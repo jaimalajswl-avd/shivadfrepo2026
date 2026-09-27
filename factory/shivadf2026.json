@@ -1,0 +1,15 @@
+{
+	"name": "shivadf2026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "633b27b7-006e-4567-b4e3-0d17e6bfecbc",
+		"tenantId": "b41a0f82-a365-4514-bce8-a34cac507d40"
+	}
+}
